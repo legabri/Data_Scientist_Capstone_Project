@@ -1,7 +1,3 @@
-	# Data Scientist Nanodegree Capstone Project
-
----
-
 ## Introduction
 For the last task of this program, the Capstone Project, I decided to carry out the project “Optimizing Application Offers with Starbucks”,
 the challenge is to create a more efficient model for sending offers, the goal is to send offers to the company's most profitable customers and not to everyone. Thus, the intention is to increase revenue and reduce costs.
